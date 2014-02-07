@@ -17,7 +17,7 @@ Quality reports location: 'target/site/index.html'.
 How to Run
 ----------
 <pre><code>
-java -jar perf-stats-1.0-jar-with-dependencies.jar <perf4j_log>
+java -jar perf-stats-1.0-jar-with-dependencies.jar <i>perf4j_instrumented_log</i>
 </code></pre>
 	
 Example:
