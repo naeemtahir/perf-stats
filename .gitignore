@@ -11,3 +11,6 @@
 target/
 build/
 .gradle
+
+# Intellij Files #
+*.iml
